@@ -1,2 +1,2 @@
 # saad-johnsonlab-stuff
-My work at Johnson Lab at Johns Hopkins University
+My work with Kazi Ahnaf Saad at JHU
